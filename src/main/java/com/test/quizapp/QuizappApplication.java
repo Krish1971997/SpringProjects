@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class QuizappApplication {
 
-	//changed from github
+	//changed from eclipse
 	public static void main(String[] args) {
 		SpringApplication.run(QuizappApplication.class, args);
 	}
