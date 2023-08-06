@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class QuizappApplication {
 
-	//changed from 2nd time
+	//changed from 3rd time
 	public static void main(String[] args) {
 		SpringApplication.run(QuizappApplication.class, args);
 	}
